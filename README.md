@@ -112,4 +112,4 @@ lift) и предложить собственную визуализацию.
 1. Открыть папку проекта в VS Code.
 2. Установить библиотеки:
    ```bash
-   pip install pandas numpy seaborn matplotlib mlxtend networkx ipykernel
+   pip install pandas numpy seaborn matplotlib mlxtend networkx ipykernel# neiralsvaz
